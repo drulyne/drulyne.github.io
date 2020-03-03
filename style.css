@@ -1,0 +1,95 @@
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 6em;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Bebas Neue', cursive;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#Mes\ Créations {
+    background-image: url("img/JeuRPG.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#informatique {
+    background-image: url("img/Web.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#but {
+    background-image: url("img/robot.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#robot2 {
+    background-image: url("img/robot2.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#robot3 {
+    background-image: url("img/robot3.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#seriousgame {
+    background-image: url("img/basnuit.PNG");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    opacity: 0.7;
+}
+
+#logojeu{
+
+    float: right;
+}
+
+#footer {
+    float: left;
+
+}
