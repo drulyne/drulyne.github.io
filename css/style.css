@@ -1,0 +1,9 @@
+.container{
+float: right;
+}
+.header .navbar .logo{
+    float: left;
+}
+.header.navbar.menu{
+    float: right;
+}
